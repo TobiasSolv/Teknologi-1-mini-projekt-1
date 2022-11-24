@@ -12,14 +12,45 @@ GPU(Graphics Processing Unit):
 Harddisk:
 
 2.Hardware: Hvad er forskellen på RAM og Harddisk?
-"RAM er hukommelse"
+"RAM er hukommelse som er korttidshukommelse og en hardisk er langtidshukommelse"
+
 3.Kan man se hvilke data (filer) der bruges af en webside?
- Hvis ja hvordan?
+ Hvis ja hvordan? ?
+
 4.Talsystemer: Forklar hvad vi kan bruge følgende talsystemer til,
   samt deres navne:16-talsystemet, 10 –talsystemet, 2 –talsystemet.
+
+
 5.Samtidighedsproblemer: Beskriv begrebet Deadlock.
+•
+•
 6.Computernetværk: Hvad er forskellen på IP adresse og MAC adresse?
+mac. serie nummer
+Ip rum wifi tildelt et nummer.
+
+
 7.Netværk: Hvordan kan man kende forskel på Ipv4 og Ipv6?
+• IPv4 er den første version af Ip, som giver 32-bit adresse.
+ Her er et eksempel på en IPv4-adresse:
+   32.253.431.175
+• IPv6 er en nyere version af IP, der bruger et 128-bit adresseformat og inkluderer både tal og bogstaver.
+ Her er et eksempel på en IPv6-adresse:
+  3002:0bd6:0000:0000:0000:ee00:0033:6778
+
+
 8.Databaser / SQL: Forklar hvad forkortelserne DDL og DML står for samt deres anvendelse.
+• DDl -Data Definition Language- bruges til at skabe databaser og opbygge struktur.
+• DML- Data Manipulation Language - bruges til at få adgang til udtrække specifik data fra databasen.
+
+
+
 9.Hardware: Hvilke typer harddiske findes i en computer, og hvad er forskellen på dem?
+• SSD-enheder er hurtigst til alt men specielt til at starte programmer og spil
+• En HDD er mere prisværd til lagring af meget data
+• En fysiskt mindre SSD kan være betydeligt hurtigere end en større
+
+
+
 10.Databaser / SQL: Hvad er et DBMS MySQL og hvad kan det bruges til?
+• Forkortelse til Structurd Qurey Language, som er et progeammeringssprog,
+som hjælper med at få adgang til reationel database. den forbinder tabellerne sammen
