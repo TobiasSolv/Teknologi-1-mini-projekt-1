@@ -13,7 +13,8 @@ og får alle dele til at samarbejde.
 Harddisk: er et permanent lager som gemmer alle filer, man kan godt manuelt slette filer i den.
 
 2.Hardware: Hvad er forskellen på RAM og Harddisk?
-"RAM er hukommelse som er korttidshukommelse og en hardisk er langtidshukommelse"
+"RAM(Random Access Memory) er et korttidslager af informationer, som pc'en aktivt bruger.
+og er et permanent lager som gemmer alle filer, man kan godt manuelt slette filer i den."
 
 3.Kan man se hvilke data (filer) der bruges af en webside?
  Hvis ja hvordan? ?
@@ -39,8 +40,8 @@ Harddisk: er et permanent lager som gemmer alle filer, man kan godt manuelt slet
 
 
 6.Computernetværk: Hvad er forskellen på IP adresse og MAC adresse?
-mac. serie nummer
-Ip rum wifi tildelt et nummer.
+MAC adresse er pc'ens identifikations/serie nummer.
+Ip adressen er nummer som wifi tildeler.
 
 
 7.Netværk: Hvordan kan man kende forskel på Ipv4 og Ipv6?
@@ -53,7 +54,7 @@ Ip rum wifi tildelt et nummer.
 
 
 8.Databaser / SQL: Forklar hvad forkortelserne DDL og DML står for samt deres anvendelse.
-• DDl -Data Definition Language- bruges til at skabe databaser og opbygge struktur.
+• DDl -Data Definition Language- bruges til at skabe databaser og opbygge struktur<br>.
 • DML- Data Manipulation Language - bruges til at få adgang til udtrække specifik data fra databasen.
 
 
