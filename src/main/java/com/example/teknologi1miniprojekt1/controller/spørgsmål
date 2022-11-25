@@ -32,9 +32,10 @@ Harddisk: er et permanent lager som gemmer alle filer, man kan godt manuelt slet
 
 
 5.Samtidighedsproblemer: Beskriv begrebet Deadlock.
-• 2 ting som vil have det samme. kommer ingen steder.
-• Mastercard eksempel.
-•
+• 2 ting som vil have det samme ressource, og hvor det ikke er muligt at de kommer til det, på samme tid.
+  det kaldes en deadlock. for at løse det problem er man nød til at lade den ene passere,
+  eller tag en anden vej så de begge kan løse arbejdet.
+
 
 
 6.Computernetværk: Hvad er forskellen på IP adresse og MAC adresse?
