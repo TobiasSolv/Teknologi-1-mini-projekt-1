@@ -1,15 +1,16 @@
 1.Hardware: Beskriv en computers hardware.
 " I en computer er der forskellige komponenter, som er med til at gøre en pc til en pc.
 De komponenter er: PSU(Power supply unit), Motherboard/bundkort, CPU(Central Processing Unit),
-RAM, GPU(Graphics Processing Unit) og Harddisk.
+RAM(Random Access Memory), GPU(Graphics Processing Unit) og Harddisk.
 
 PSU(Power supply unit): er strømkilden af pc'en
 Motherboard/bundkort: er byggeklodsen til de andre komponenter, som der puttes på og
 får strøm af.
 CPU(Central Processing Unit): er hjernen af pc'en, det er der vi har vores operativsystemer.
-RAM: er kortids hukommelsen hvor vi gemmer små aktioner
-GPU(Graphics Processing Unit):
-Harddisk:
+RAM: er et korttidslager af informationer, som pc'en aktivt bruger.
+GPU(Graphics Processing Unit): er hjernen af pc'en, den styrer alle opgaver,
+og får alle dele til at samarbejde.
+Harddisk: er et permanent lager som gemmer alle filer, man kan godt manuelt slette filer i den.
 
 2.Hardware: Hvad er forskellen på RAM og Harddisk?
 "RAM er hukommelse som er korttidshukommelse og en hardisk er langtidshukommelse"
