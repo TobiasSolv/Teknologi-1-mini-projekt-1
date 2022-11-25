@@ -16,14 +16,26 @@ Harddisk:
 
 3.Kan man se hvilke data (filer) der bruges af en webside?
  Hvis ja hvordan? ?
+• gå ind på hjemme siden at venstre klik på undersøg alt info burde stå der.
+
 
 4.Talsystemer: Forklar hvad vi kan bruge følgende talsystemer til,
   samt deres navne:16-talsystemet, 10 –talsystemet, 2 –talsystemet.
+• 16-talsystemet  (hexadecimal) bruges til at gøre det mere simple. så man kan læse de binær tal.
+   indeholder 0-9 og a-f.  som også bliver brugt i css farvekode.
+    man skriver text decimaler som ender med at blive binær.
+    når vi programmere skriver vi i hexa og pc oversætter til binær.
+• 10 –talsystemet (decimalsystemet)bruges i hverdagen. menneskesprog
+• 2 –talsystemet (binær) som bruges pc.
+
 
 
 5.Samtidighedsproblemer: Beskriv begrebet Deadlock.
+• 2 ting som vil have det samme. kommer ingen steder.
+• Mastercard eksempel.
 •
-•
+
+
 6.Computernetværk: Hvad er forskellen på IP adresse og MAC adresse?
 mac. serie nummer
 Ip rum wifi tildelt et nummer.
@@ -47,10 +59,10 @@ Ip rum wifi tildelt et nummer.
 9.Hardware: Hvilke typer harddiske findes i en computer, og hvad er forskellen på dem?
 • SSD-enheder er hurtigst til alt men specielt til at starte programmer og spil
 • En HDD er mere prisværd til lagring af meget data
-• En fysiskt mindre SSD kan være betydeligt hurtigere end en større
+• En fysisk mindre SSD kan være betydeligt hurtigere end en større
 
 
 
 10.Databaser / SQL: Hvad er et DBMS MySQL og hvad kan det bruges til?
-• Forkortelse til Structurd Qurey Language, som er et progeammeringssprog,
+• Forkortelse til Structurd Qurey Language, som er et programmeringssprog,
 som hjælper med at få adgang til reationel database. den forbinder tabellerne sammen
